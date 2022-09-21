@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LukeDul
 - 👀 I’m interested in robotics
-- 🌱 I’m currently learning Python
-- 📫 How to reach me lukedulworth2@gmail.com
+- 🌱 I’m currently learning Racket
+- 📫 How to reach me ldulworth@udallas.edu
 
 <!---
 LukeDul/LukeDul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
