@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LukeDul
 - 👀 I’m interested in robotics
-- 🌱 I’m currently learning Racket
+- 🌱 I’m currently learning Java
 - 📫 How to reach me ldulworth@udallas.edu
 
 <!---
