@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LukeDul
-- 👀 I’m interested in robotics and PLC programming
-- 🌱 I’m currently learning Java and Structured Text 
+- 👀 I’m interested in robotics
+- 🌱 I’m currently learning to program Opentrons robots Text 
 - 📫 How to reach me dulworthluke@gmail.com
 
 <!---
