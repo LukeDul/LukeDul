@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LukeDul
 - 👀 I’m interested in robotics
-- 🌱 I’m currently learning to program Opentrons robots Text 
+- 🌱 I’m currently learning to program Opentrons robots
 - 📫 How to reach me dulworthluke@gmail.com
 
 <!---
