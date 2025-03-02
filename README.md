@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @LukeDul
-- 👀 I’m interested in robotics
-- 🌱 I’m currently learning to program Opentrons robots
-- 📫 How to reach me dulworthluke@gmail.com
+- 👀 I’m interested in embedded programming and game dev
+- 🌱 I’m currently learning C, C++ and GDScript
 
 <!---
 LukeDul/LukeDul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
